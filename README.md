@@ -1,6 +1,6 @@
 
 # Starry Jo
-![content2](https://github.com/user-attachments/assets/0ec29f40-dee7-4ec6-a6ac-67076985f01e)  ![style2](https://github.com/user-attachments/assets/5882085a-d78b-4ea7-9690-189701a5b5b6)
+![generated_img](https://github.com/user-attachments/assets/ed3a4d63-3c6f-405f-847e-10d33ba1865e)
 
 ## Project Description
 
