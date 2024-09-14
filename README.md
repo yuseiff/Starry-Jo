@@ -1,6 +1,5 @@
 
 # Starry Jo
-
 ## Project Description
 
 **Starry Jo** is a Neural Style Transfer project that applies the visual style of Vincent van Gogh's famous painting *Starry Night* to a content image using TensorFlow. The technique allows us to blend the content of one image with the artistic style of another, creating visually compelling results.
